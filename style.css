@@ -1,6 +1,9 @@
 body{
-    margin: 0;
+    margin: 0 auto;
     font-family: 'Roboto', sans-serif;
+}
+.full-area{
+    width: 1500px;
 }
 h1{
     font-size: 50px;
@@ -28,7 +31,7 @@ h1{
     
 }
 .half-width img{
-    width: 70%;
+    width: 60%;
 }
 .third-section{
     background-color:lightgray;
