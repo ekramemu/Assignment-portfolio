@@ -54,7 +54,6 @@ h1{
 .work-part{
     background-image: linear-gradient(lightgray,gray);
     width: 60%;
-    height: 30%;
     margin: 100px 0px 50px 300px;
     border-radius: 30px;
     
@@ -62,7 +61,7 @@ h1{
 }
 #btn-right {
     text-align: right;
-    padding-bottom: 30px;
+    padding-bottom: 70px;
 }
 #btn-left{
     padding-top: 30px;
