@@ -68,6 +68,9 @@ h1{
     padding-left: 10px;
     text-align: left;
 }
+#project-headline{
+    text-align: center;
+}
 footer{
     text-align:center;
     color: gray;
